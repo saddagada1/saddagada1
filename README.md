@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saddagada1&label=Profile%20views&color=0e75b6&style=flat" alt="saddagada1" /> </p>
 
-- 🔭 I’m currently working on [Bella](https://github.com/saddagada1/bella)
+- 🔭 I’m currently working on [Sloopy](https://github.com/saddagada1/sloopy)
 
 - 👨‍💻 All of my projects are available on Github, so scroll down.
 
