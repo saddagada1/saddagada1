@@ -1,1 +1,1 @@
-<h1 align="left"> A guy named sai, coding shit on the fly. </h1>
+<h3 align="middle"> A guy named Sai, coding shit on the fly. </h3>
